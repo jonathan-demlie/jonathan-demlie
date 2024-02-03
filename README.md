@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jonathan-demlie
-- 👀 I’m interested in ... coding
-- 🌱 I’m currently learning ...flutter developer
-- 💞️ I’m looking to collaborate on ...Flutter app Development
+- 👀 I’m Mern Stack Developer
+- 🌱 I’m currently working as ...Mern stack bootcamp Assistant 
+- 💞️ I’m looking to collaborate on ...Web Development
 - 📫 How to reach me ... yonatan.dem123@gmail.com
 
 <!---
