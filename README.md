@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @jonathan-demlie
 - 👀 I’m Mern Stack Developer
 - 🌱 I’m currently working as ...Mern stack bootcamp Assistant 
-- 💞️ I’m looking to collaborate on ...Web Development
 - 📫 How to reach me ... yonatan.dem123@gmail.com
 
 <!---
